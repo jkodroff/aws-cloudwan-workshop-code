@@ -1,0 +1,6 @@
+name: aws-cloudwan-workshop-inspection
+description: A minimal Python Pulumi program
+runtime:
+    name: python
+    options:
+        virtualenv: venv
